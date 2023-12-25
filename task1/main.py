@@ -6,8 +6,8 @@ import os
 
 # const
 A = 0
-x_start = -100.0
-x_end = 100.0
+x_start = -10.0
+x_end = 10.0
 x_step = 0.01
 
 
